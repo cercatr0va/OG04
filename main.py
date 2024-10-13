@@ -1,4 +1,4 @@
 def greet():
-    print("Привет, мир!") 
+    print("Hello, world!")  # <-- Эта строка вызовет конфликт
 
 greet()
